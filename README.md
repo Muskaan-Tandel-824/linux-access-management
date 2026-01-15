@@ -1,4 +1,4 @@
-~# Linux User & Access Management System
+# Linux User & Access Management System
 
 # Project Summary
 This project demonstrates role-based access control (RBAC) on a Linux server hosted on AWS EC2. 
