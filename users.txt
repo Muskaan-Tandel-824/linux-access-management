@@ -1,0 +1,3 @@
+alicee:x:1003:1003::/home/alicee:/bin/bash
+bobbyy:x:1004:1004::/home/bobbyy:/bin/bash
+john:x:1005:1005::/home/john:/bin/bash

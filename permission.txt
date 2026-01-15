@@ -1,3 +1,4 @@
-drwxrwx---. 2 root group1 6 Jan 15 08:26 /company/grp1
-drwxrwx---. 2 root group2 6 Jan 15 08:26 /company/grp2
-drwxrwx---. 2 root group3 6 Jan 15 08:26 /company/grp3
+
+drwxrwx---. 2 root admin     6 Jan 15 13:21 /company/admin
+drwxrwx---. 2 root auditor   6 Jan 15 13:21 /company/audit
+drwxrwx---. 2 root developer 6 Jan 15 13:21 /company/dev
